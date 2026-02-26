@@ -4,7 +4,9 @@
 
 该数据集旨在模拟实际场景中复杂多样的数学答疑环境，包含文本、符号、图像、语音、视频等多模态输入，涵盖代数、几何、算术、证明、应用题、概率统计、微积分、组合问题、应用数学、图论以及逻辑等11个类型，共220条高质量样本。
 
-![image](https://github.com/mira-ai-lab/AgentMath/blob/main/math-220/images/dataset_distribution.png)
+<p align="center">
+  <img src="https://github.com/mira-ai-lab/AgentMath/blob/main/math-220/images/dataset_distribution.png" width="500px">
+</p>
 
 ## 🗂️ 目录结构
 
