@@ -147,3 +147,7 @@ MAMath-Bench/
 git clone https://github.com/mira-ai-lab/AgentMath.git  # 替换为实际仓库地址
 cd MAMath-Bench\math-220  # 进入数据集目录
 ```
+## License
+
+The dataset in this repository is released under the MIT License.
+See the [LICENSE](LICENSE) file for details.
