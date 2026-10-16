@@ -2,7 +2,7 @@
 
 [![Data Scale](https://img.shields.io/badge/Samples-1003-orange.svg)](#dataset-statistics) [![Modalities](https://img.shields.io/badge/Modalities-4-purple.svg)](#key-features) 
 ---
-
+[🇬🇧 English](README.md)
 ## 💡 核心概述 (Overview)
 
 本数据集是专为教育领域设计的多模态数学推理基准。当前教育领域数学推理评估主要面临三大挑战：**模态单一化**、**评估结果化**以及**协作脆弱性**。
