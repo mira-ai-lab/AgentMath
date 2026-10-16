@@ -149,5 +149,9 @@ cd MAMath-Bench\math-220  # 进入数据集目录
 ```
 ## License
 
-The dataset in this repository is released under the MIT License.
-See the [LICENSE](LICENSE) file for details.
+MAMath-Bench is released under the MIT License.
+
+Please note that some materials are derived from existing datasets and remain
+subject to the licenses and terms of their respective source datasets.
+Users are responsible for complying with the applicable licenses and terms of
+use of the original datasets.
