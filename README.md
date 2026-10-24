@@ -50,7 +50,7 @@ multi-agent collaboration.
    reasoning, with reasoning chains containing up to **20 steps**.
 
 <div align="center">
-  <img src="math-200/images/frame.png" width="100%" alt="Overview of MAMath-Bench">
+  <img src="math-220/images/frame.png" width="100%" alt="Overview of MAMath-Bench">
   <p>Figure 1: Overview of the MAMath-Bench construction process.</p>
 </div>
 
@@ -72,7 +72,7 @@ capabilities of multi-agent systems:
   for competition-level complex reasoning.
 
 <div align="center">
-  <img src="math-200/images/pos.png" width="100%" alt="Example of positive samples">
+  <img src="math-220/images/pos.png" width="100%" alt="Example of positive samples">
   <p>Figure 2: Examples of positive samples.</p>
 </div>
 
@@ -94,7 +94,7 @@ samples** covering five types of logical defects:
   the dependency between prerequisites and conclusions.
 
 <div align="center">
-  <img src="math-200/images/neg.png" width="100%" alt="Examples of adversarial negative samples">
+  <img src="math-220/images/neg.png" width="100%" alt="Examples of adversarial negative samples">
   <p>Figure 3: Examples of adversarial negative samples.</p>
 </div>
 
@@ -103,8 +103,8 @@ samples** covering five types of logical defects:
 ## 📊 Dataset Statistics
 
 <div align="center">
-  <a href="math-200/images/fig11.pdf" target="_blank">
-    <img src="math-200/images/fig11.png" width="50%" alt="Distribution of difficulty, modalities, and reasoning-step complexity">
+  <a href="math-220/images/fig11.pdf" target="_blank">
+    <img src="math-220/images/fig11.png" width="50%" alt="Distribution of difficulty, modalities, and reasoning-step complexity">
   </a>
   <p>Figure 4: Distribution of difficulty, modalities, and reasoning-step complexity.</p>
 </div>
