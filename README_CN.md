@@ -26,7 +26,7 @@
 4.  **高难度梯次设计**：覆盖从基础算术到国际数学奥林匹克（IMO）难度，推理步数最高达 20 步，极具挑战性。
 
 <div align="center">
-  <img src="math200/images/frame.png" width="100%" alt="流程图">
+  <img src="math-220/images/frame.png" width="100%" alt="流程图">
   <p>图1：数据集构造流程</p>
 </div>
 
@@ -42,7 +42,7 @@
  -   **Hard (6-20 步)**：包含图文、音频数据，为竞赛级复杂推理。
 
 <div align="center">
-  <img src="math200/images/pos.png" width="100%" alt="正样本示例">
+  <img src="math-220/images/pos.png" width="100%" alt="正样本示例">
   <p>图2：正样本示例</p>
 </div>
 
@@ -54,12 +54,12 @@
 -   **缺失步骤 (Missing Steps)**：跳跃性逻辑漏洞。
 -   **顺序错乱 (Swapped Steps)**：前置条件与结论倒置。
 </div><div align="center">
-  <img src="math200/images/neg.png" width="100%" alt="对抗样本示例">
+  <img src="math-220/images/neg.png" width="100%" alt="对抗样本示例">
   <p>图3：对抗样本示例</p>
 </div>
 
 ## 📊 数据统计 (Dataset Statistics)
-<div align="center">  <a href="math200/images/fig11.pdf" target="_blank"> <img src="math200/images/fig11.png" width="50%" alt="难度-模态-步骤复杂度分布"> </a> <p>图4：难度、模态与推理步骤复杂度分布</p> </div>
+<div align="center">  <a href="math-220/images/fig11.pdf" target="_blank"> <img src="math-220/images/fig11.png" width="50%" alt="难度-模态-步骤复杂度分布"> </a> <p>图4：难度、模态与推理步骤复杂度分布</p> </div>
 
 ### 数据分布概览
 | 指标分类 | 详细项 | 数量 / 占比 |
