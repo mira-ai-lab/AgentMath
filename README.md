@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="README.md">🇬🇧 English</a> |
-  <a href="README_CN.md">🇨🇳 中文</a>
+  <a href="README_CN.md">🇨🇳 中文</a> |
+  <a href="https://arxiv.org/abs/2610.26943">📄 arXiv</a> |
+  <a href="https://huggingface.co/papers/2610.26943">🤗 HF Paper</a>
 </p>
 
 [![Data Scale](https://img.shields.io/badge/Samples-1003-orange.svg)](#dataset-statistics)
